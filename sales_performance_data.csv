@@ -1,0 +1,16 @@
+OrderID,Date,Product,Category,Units Sold,Unit Price,Revenue,Region
+1,2024-02-22,Milk,Grocery,7,90,630,West
+2,2024-02-10,Eggs,Grocery,10,100,1000,North
+3,2024-01-15,Jacket,Apparel,8,90,720,East
+4,2024-01-10,T-Shirt,Apparel,10,84,840,South
+5,2024-01-10,Keyboard,Electronics,7,52,364,North
+6,2024-02-12,Milk,Grocery,5,33,165,North
+7,2024-02-24,Eggs,Grocery,4,40,160,South
+8,2024-01-03,Milk,Grocery,1,40,40,West
+9,2024-02-16,Keyboard,Electronics,5,26,130,West
+10,2024-03-01,Bread,Grocery,4,75,300,South
+11,2024-01-18,Wireless Mouse,Electronics,6,12,72,North
+12,2024-02-15,Eggs,Grocery,10,64,640,North
+13,2024-02-20,T-Shirt,Apparel,2,64,128,West
+14,2024-01-05,Milk,Grocery,5,46,230,East
+15,2024-02-24,Bread,Grocery,4,88,352,South
